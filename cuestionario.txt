@@ -1,3 +1,5 @@
+Emmanuel Solis Cuestionario Maquinas Virtuales
+
 Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas  operativos y no en otros?
 Ya que los lenguajes estan disenados para funcionar especificamente en ciertas plataformas o sistemas operativos, utilizando ciertas  bibliotecas o API que limitan su compatibilidad,y a que cada SO tiene ciertos compiladores y entornos de ejecucion, para lenguajes de programacion, ya que estos compiladores arrojan un ejecutables con extensiones diferentes, que no todos los interpretes pueden interpretar.
 
